@@ -19,8 +19,6 @@ Build a tic-tac-toe game on the command line where two human players can play ag
 ### Details | Comments
 - This project has been made from scratch following global instructions.  
 
-A Python version of this game is available on the master branch. 
-
 ### Status
 Completed
 
