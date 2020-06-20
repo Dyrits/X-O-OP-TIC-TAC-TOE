@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+# X-O-OP Tic-Tac-Toe
 
 ## Description
 The Tic-Tac-Toe is a terminal two players game.  
