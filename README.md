@@ -2,10 +2,7 @@
 
 ## Description
 The Tic-Tac-Toe is a terminal two players game.  
-Each turn, a player enter the coordinates.
-
-### Preview
-![alt text](screenshot.png "Screenshot")
+Each turn, a player enter the number of the corresponding cell.
 
 ## More about this project
 
@@ -20,7 +17,9 @@ Build a tic-tac-toe game on the command line where two human players can play ag
 - Ruby
 
 ### Details | Comments
-- This project has been made from scratch following global instructions.   
+- This project has been made from scratch following global instructions.  
+
+A Python version of this game is available on the master branch. 
 
 ### Status
 Completed
